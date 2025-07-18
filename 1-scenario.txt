@@ -1,0 +1,31 @@
+Imagine you are working on a project called MyFirstProject. 
+You have just started and need to set up version control using Git. 
+Follow the instructions below, filling in the blanks with the appropriate Git commands.
+
+ou've created a new folder on your computer for "MyFirstProject." Navigate to this folder in your terminal or command prompt. 
+To start tracking your project with Git, you need to initialize a new repository.
+Command: `git ______`
+
+Inside "MyFirstProject," you create a text file named `README.md` that describes the project. 
+Now, you want to stage this file so it can be tracked by Git.
+Command: `git add ________`
+
+After staging `README.md`, you decide to save your changes with a commit. 
+You want to include a message that describes what you did.
+Command: `git commit -m "_________"`
+
+Curious about what your commit history looks like, you decide to check it. 
+There's a command to display the history of your commits.
+Command: `git ______`
+
+You've made more changes to `README.md` and also added a new file, `index.html`, to your project. 
+You want to stage all the changes you've made so far.
+Command: `git add ______`
+
+Now that your changes are staged, you're ready to commit them. 
+You think of a concise message that captures the essence of your changes.
+Command: `git commit -m "_________"`
+
+You've heard about an interesting project hosted on GitHub and want to have a look at its code on your local machine. 
+The project's URL is `https://github.com/exampleuser/example-repo.git`. You decide to clone it.
+Command: `git clone ________`
