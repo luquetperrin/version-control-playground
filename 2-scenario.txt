@@ -1,0 +1,21 @@
+You are contributing to a project named “WeatherApp,” where you’ve recently made several updates. 
+These include bug fixes in the JavaScript file that controls the weather data fetch, 
+layout updates in the HTML file, and aesthetic improvements in the CSS file. 
+You aim to commit these changes in a logical and organized manner.
+
+Before committing the bug fixes, you decide to review the changes in the JavaScript file named app.js. 
+To stage this specific file, you use the command: git add ____________.
+
+After staging app.js, you want to ensure it's correctly staged for commit while verifying that other modified files remain unstaged. 
+To view the status of your working directory and staging area, you type: git ____________.
+
+Satisfied that only app.js is staged, you proceed to commit this change. 
+You decide to include a message that accurately describes the bug fixes. 
+The command you use is: git commit -m "_______________".
+
+Next, you decide to stage the updated HTML file (index.html) and the CSS file (style.css) together since they are related to the layout and aesthetic updates. 
+To stage these files at once, you use the command: git add ____________ ____________.
+
+You plan to start working on a new feature that involves adding a forecast module to the "WeatherApp." 
+To keep this work separate from the main project while it's in development, you decide to create a new branch named "forecast-feature." 
+The command to create and switch to this new branch is: git ____________ ____________.
